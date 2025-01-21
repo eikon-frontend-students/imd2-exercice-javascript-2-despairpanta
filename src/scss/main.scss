@@ -64,3 +64,21 @@ h1 {
 .box.trigger-all-self {
   background: var(--blue-color);
 }
+
+// code
+
+.change-color.is-active {
+  background: var(--blue-color);
+}
+
+.toggle-color.is-active {
+  background: var(--red-color);
+}
+
+.target.is-closed {
+  visibility: hidden;
+}
+
+.trigger-all-self.is-active {
+  background: var(--green-color);
+}
